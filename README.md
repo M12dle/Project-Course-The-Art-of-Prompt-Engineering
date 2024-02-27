@@ -1,4 +1,4 @@
-#**The Art of Prompt Engineering**
+# The Art of Prompt Engineering 
 ## Author : @sinanazeri
 
 Mentee Assignment from IBM Advance AI @ Infinite Learning
